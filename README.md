@@ -1,6 +1,6 @@
 # Computer-Photography_Grab_Cut
 ###### tags: `zju` `cg`
-[計算攝影學] 期末專題
+ [計算攝影學] 期末專題 Computer-Photography_Grab_Cut
 ![](https://i.imgur.com/YjwO7eT.png)
 
 
