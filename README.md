@@ -3,7 +3,6 @@
  [計算攝影學] 期末專題 Computer-Photography_Grab_Cut
 ![](https://i.imgur.com/YjwO7eT.png)
 
-
 ## 基本原理
 ### Kmeans
 ### GMM
